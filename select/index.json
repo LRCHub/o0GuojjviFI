@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "VENUS ～XX ver.～",
+  "base_artist": "千聖",
+  "createdAt": "2025-12-26T03:55:40.658563Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VENUS ～XX ver.～",
+      "artist": "千聖",
+      "has_synced": false,
+      "path": "select/pl_01_VENUS_~XX_ver.~_千聖.txt"
+    }
+  ]
+}
